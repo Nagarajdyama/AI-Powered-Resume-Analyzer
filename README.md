@@ -76,5 +76,5 @@ curl -X POST -F "file=@resume.pdf" http://127.0.0.1:5000/upload
 This project is licensed under the **MIT License**.
 
 ## 📧 Contact
-For queries, contact **[Your Name](mailto:your-email@example.com)** or visit the GitHub repository. 🚀
+For queries, contact **[Your Name](mailto:nagarajdyama@gmail.com)** or visit the GitHub repository. 🚀
 
